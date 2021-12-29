@@ -1,1 +1,1 @@
-# Digital-modeling-of-photoacoustic-imaging
+# Digital-modeling-of-macro-PAI
